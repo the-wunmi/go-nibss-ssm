@@ -1,0 +1,4 @@
+/ssm/*.h
+/ssm/*.dylib
+/ssm/*.so
+/ssm/build
